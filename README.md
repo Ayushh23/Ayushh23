@@ -1,6 +1,9 @@
 # 💫 About Me:
-👋 Hi there! I'm a passionate Android Developer who loves building clean, user-friendly apps. I enjoy turning ideas into reality through code and have experience working with APIs, Firebase, and real-time data. Currently learning Data Structures & Algorithms and exploring backend development to become a full-stack developer. Always eager to learn, contribute, and grow. Let's build something amazing together!
+Hi, I’m Ayush Raj, a Java Full Stack & Android Developer with a backend-first mindset. I build reliable applications using Java, Spring Boot, REST APIs, SQL, and Android, focusing on clean architecture and real-world usability.
 
+I’m actively strengthening my Data Structures & Algorithms skills to write efficient, scalable code instead of relying blindly on frameworks. I prefer learning by building end-to-end projects, understanding trade-offs, and fixing real bugs.
+
+I’m aiming to grow into an engineer who can take ownership of features, not just write code snippets.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_m_ayuu23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayushraj2313/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushrajj.231@gmail.com) 
