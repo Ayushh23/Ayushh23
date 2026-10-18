@@ -1,127 +1,199 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Ayush Raj</h1>
-<h3 align="center">Software Engineer</h3>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Ayushh23">
-    <img src="https://komarev.com/ghpvc/?username=Ayushh23&label=Profile%20views&color=00FFFF&style=flat-square" alt="Ayushh23's profile views" />
-  </a>
-</p>
-
-<img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="100%" />
-
-## 📌 About Me
-- Hi, I'm Ayush Raj 👋
-- I'm a Full-Stack Developer and B.Tech CSE graduate passionate about building products that solve real problems. I enjoy designing scalable backend systems using Java and Spring Boot while also working across the stack with React and Python.
-- I've built AI-powered applications ranging from college assistants and resume analyzers to travel planners, integrating LLMs into practical use cases. I love turning ideas into working products, learning by building, and continuously improving my problem-solving skills through DSA.
-- 🚀 Tech Stack: Java • Spring Boot • React • Python • FastAPI • Flask • MongoDB • PostgreSQL • Supabase
-- Currently focused on:
-- Backend Engineering with Java & Spring Boot
-- Strengthening Data Structures & Algorithms
-- Building production-ready full-stack applications
-- Exploring practical applications of AI
-
-
-## 🧠 My Focus Areas
-- Full Stack Development
-- Backend Development
-- LLM Engineer
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/Ayushh23">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ayushh23&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Ayushh23's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Ayushh23&theme=radical&hide_border=true&cache_seconds=86400" alt="Ayushh23's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Ayushh23&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ayush Raj's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushh23&theme=radical&radius=10" alt="Ayushh23's Activity Graph" />
-</p>
-
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
-
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
-
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />
-
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
-
-</p>
-
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ayushh23">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ayushh23&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-![Top language](https://stats.pphat.top/languages?username=Ayushh23)
-<br/>
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayushraj2313/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Ayush Raj's LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="mailto:ayushrajj.231@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Ayush Raj's Email"/></a>&nbsp;&nbsp;
-  <a href="https://mine-portfolio-six-bay.vercel.app/"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>&nbsp;&nbsp;
-  <a href="https://wa.me/917667804626"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-</p>
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-static.svg"/>
+  <img src="assets/hero.svg" alt="Ayush Raj — Software Engineer" width="100%"/>
+</picture>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayushraj2313-451126?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushraj2313)
+[![Email](https://img.shields.io/badge/Email-ayushrajj.231@gmail.com-701A3D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushrajj.231@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-C77B9B?style=for-the-badge&logo=vercel&logoColor=10070C)](https://mine-portfolio-six-bay.vercel.app/)
+![Views](https://komarev.com/ghpvc/?username=Ayushh23&label=Profile%20views&color=701A3D&style=for-the-badge)
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+</div>
+
+## `$ cat about.md`
+
+I build backends that don't fall over and AI features that do real work. Java + Spring Boot is home, React and FastAPI are the neighbours, and Gemini is the guest who got a job.
+
+- 🎓 **B.Tech CSE '26**, Gandhi Engineering College, Bhubaneswar (CGPA 8.2)
+- 🏗️ Two internships, two production-style full-stack apps shipped, one npm package in the wild
+- 🏆 **3rd place, BPUT Hackathon 2024** (AI job-matching platform, 47 teams)
+- 🎤 **Toastmasters Speech Contest winner 2024**, and I can explain a JWT to your non-technical manager
+- 🔭 Now: backend engineering, system design, DSA grind, practical LLM products
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## `$ git log --graph --oneline` &nbsp;·&nbsp; experience
+
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'git0':'#E5B5C7','git1':'#C77B9B','git2':'#701A3D','gitBranchLabel0':'#10070C','gitBranchLabel1':'#10070C','gitBranchLabel2':'#F8F0F3','commitLabelColor':'#F8F0F3','commitLabelBackground':'#190B12','tagLabelColor':'#10070C','tagLabelBackground':'#E5B5C7','tagLabelBorder':'#C77B9B'}}}%%
+gitGraph
+   commit id: "2022 B.Tech"
+   branch android
+   commit id: "Corona Tracker"
+   commit id: "ML Kit"
+   checkout main
+   merge android id: "LetsGrowMore"
+   commit id: "BPUT 3rd" type: HIGHLIGHT
+   branch fullstack
+   commit id: "Resume AI"
+   commit id: "E-learning"
+   commit id: "Linux deploy"
+   checkout main
+   merge fullstack id: "Debadarsan"
+   commit id: "JPMorgan sim" type: HIGHLIGHT
+   commit id: "Next role" tag: "HEAD"
+```
+
+<details>
+<summary><b>🧑‍💻 Debadarsan Consulting</b> — Full-Stack Developer Intern · <i>May – Jul 2025</i></summary>
+<br/>
+
+- Delivered **2 full-stack apps** in an agile team, owning backend, frontend integration, testing and deployment.
+- **AI Resume Analyzer** (FastAPI · React · MongoDB · Gemini API) automating resume evaluation, **~30% less manual effort**.
+- **Role-based e-learning platform** (Spring Boot · React · MongoDB) with JWT authN/authZ across multiple user roles.
+- Environment-based config management and deployments on **Linux servers**.
+
+</details>
+
+<details>
+<summary><b>📱 LetsGrowMore</b> — Android Developer Intern · <i>Jun – Jul 2024</i></summary>
+<br/>
+
+- **Corona Tracker** app stitching multiple REST APIs into live stats for **195+ countries**.
+- **Firebase ML Kit** face recognition with **on-device emotion detection**.
+
+</details>
+
+<details>
+<summary><b>🏦 JPMorgan Chase & Co.</b> — Software Engineering Job Simulation (Forage) · <i>Jun 2026</i></summary>
+<br/>
+
+Project setup, **Kafka** integration, **H2** integration, REST API integration and REST controllers.
+
+</details>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## `$ ls ~/projects` &nbsp;·&nbsp; things I shipped
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 DTE Bot
+**AI college assistant that handles ~85% of routine student queries.**
+
+`React` `Vite` `Flask` `MongoDB` `Gemini` `AWS`
+
+Hybrid design: rule-based intent routing first, Gemini for contextual answers. Near real-time replies, deployed on AWS.
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 Blog API
+**Secure Spring Boot backend, 12+ REST endpoints.**
+
+`Java 17` `Spring Boot 3` `Spring Security` `JWT` `Hibernate` `JUnit`
+
+RBAC, posts, comments, categories, pagination and nested resources. Controller → Service → Repository, validated and tested.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 📦 Spring Boot CLI
+**Published npm package, 150+ downloads.**
+
+`Node.js` `npm`
+
+Scaffolds Spring Boot projects in one command so nobody copies `pom.xml` from an old repo again.
+
+</td>
+<td valign="top">
+
+### 🧠 AI Resume Analyzer
+**Built during internship, ~30% less manual screening.**
+
+`FastAPI` `React` `MongoDB` `Gemini`
+
+LLM-driven resume evaluation workflow, from upload to structured scoring.
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🔍 How DTE Bot works</b> (architecture)</summary>
+
+```mermaid
+flowchart LR
+  U([Student]) --> R[React + Vite UI]
+  R --> F[Flask API]
+  F --> I{Rule-based<br/>intent match?}
+  I -- yes --> A[Instant answer]
+  I -- no --> G[Gemini API<br/>contextual reply]
+  F <--> M[(MongoDB)]
+  A --> R
+  G --> R
+```
+
+</details>
+
+<details>
+<summary><b>🔍 How the Blog API is layered</b> (architecture)</summary>
+
+```mermaid
+flowchart LR
+  C([Client]) --> S[Spring Security<br/>JWT filter]
+  S --> K[Controller]
+  K --> V[Service<br/>validation + logic]
+  V --> P[Repository<br/>JPA / Hibernate]
+  P --> D[(H2 dev → MySQL)]
+```
+
+</details>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## `$ stack --list`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,flask,react,vite,tailwind,nodejs&theme=dark" alt="languages, backend, frontend"/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,aws,docker,linux,git,postman&theme=dark" alt="data, cloud, tools"/>
+</p>
+
+<div align="center">
+
+**Core CS:** DSA · OOP · System Design · DBMS · OS · Networks &nbsp;|&nbsp; **Also:** Kafka · JWT · Spring Security · Maven · Gradle · CI/CD
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## `$ git contributions`
+
+<sub>Generated from my real GitHub contribution graph by a scheduled GitHub Action, so nothing here is hand-made.</sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayushh23/Ayushh23/output/github-snake-dark.svg"/>
+  <img alt="Contribution graph snake" src="https://raw.githubusercontent.com/Ayushh23/Ayushh23/output/github-snake.svg" width="100%"/>
 </picture>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
-</div>
 
+```
+while (alive) { learn(); build(); ship(); }
+```
+
+<sub>Open to SDE / backend / full-stack roles — say hi 👋</sub>
+
+<img src="assets/footer.svg" width="100%" alt=""/>
+
+</div>
