@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="110" viewBox="0 0 1000 110" fill="none" role="img" aria-label="Footer">
+<defs><linearGradient id="af-g" x1="0" x2="1"><stop offset="0" stop-color="#123322"/><stop offset=".5" stop-color="#1F7A4D"/><stop offset="1" stop-color="#123322"/></linearGradient></defs>
+<path d="M0 50 C 160 10, 340 90, 500 50 S 840 10, 1000 50 V110 H0Z" fill="url(#af-g)" fill-opacity=".55"><animate attributeName="d" dur="9s" repeatCount="indefinite" values="M0 50 C 160 10, 340 90, 500 50 S 840 10, 1000 50 V110 H0Z;M0 50 C 160 90, 340 10, 500 50 S 840 90, 1000 50 V110 H0Z;M0 50 C 160 10, 340 90, 500 50 S 840 10, 1000 50 V110 H0Z"/></path>
+<path d="M0 66 C 200 36, 360 96, 520 66 S 820 36, 1000 66 V110 H0Z" fill="#0B1410"><animate attributeName="d" dur="12s" repeatCount="indefinite" values="M0 66 C 200 36, 360 96, 520 66 S 820 36, 1000 66 V110 H0Z;M0 66 C 200 96, 360 36, 520 66 S 820 96, 1000 66 V110 H0Z;M0 66 C 200 36, 360 96, 520 66 S 820 36, 1000 66 V110 H0Z"/></path>
+<text x="500" y="92" text-anchor="middle" font-family="Georgia,serif" font-size="14" letter-spacing="4" fill="#A7F3C7" fill-opacity=".8">BUILT WITH CARE · AYUSH RAJ</text>
+</svg>

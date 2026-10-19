@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270" fill="none" role="img" aria-label="Impact numbers from resume">
+<defs>
+  <linearGradient id="im-g" x1="0" x2="1"><stop offset="0" stop-color="#1F7A4D"/><stop offset="1" stop-color="#A7F3C7"/></linearGradient>
+  <linearGradient id="im-shine" x1="0" x2="1"><stop offset="0" stop-color="#ECFDF5" stop-opacity="0"/><stop offset=".5" stop-color="#ECFDF5" stop-opacity=".45"/><stop offset="1" stop-color="#ECFDF5" stop-opacity="0"/></linearGradient>
+  <clipPath id="im-c"><rect width="1000" height="270" rx="16"/></clipPath>
+</defs>
+<rect width="1000" height="270" rx="16" fill="#050A07" stroke="#123322"/>
+<g clip-path="url(#im-c)"><text x="24" y="34" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#A7F3C7">DTE Bot · routine student queries automated</text>
+<rect x="24" y="42" width="560" height="8" rx="4" fill="#0B1410" stroke="#123322"/>
+<rect x="24" y="42" width="476" height="8" rx="4" fill="url(#im-g)"><animate attributeName="width" from="0" to="476" dur="1.4s" begin="0.25s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect>
+<rect x="24" y="42" width="120" height="8" rx="4" fill="url(#im-shine)"><animate attributeName="x" values="-120;700" dur="3s" begin="1.65s" repeatCount="indefinite"/></rect>
+<text x="606" y="50" font-family="'JetBrains Mono',Consolas,'Courier New',monospace" font-size="18" font-weight="700" fill="#ECFDF5" opacity="0">~85%<animate attributeName="opacity" from="0" to="1" dur=".6s" begin="1.15s" fill="freeze"/></text><text x="24" y="80" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#A7F3C7">Resume Analyzer · manual screening effort cut</text>
+<rect x="24" y="88" width="560" height="8" rx="4" fill="#0B1410" stroke="#123322"/>
+<rect x="24" y="88" width="168" height="8" rx="4" fill="url(#im-g)"><animate attributeName="width" from="0" to="168" dur="1.4s" begin="0.60s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect>
+<rect x="24" y="88" width="120" height="8" rx="4" fill="url(#im-shine)"><animate attributeName="x" values="-120;700" dur="3s" begin="2.00s" repeatCount="indefinite"/></rect>
+<text x="606" y="96" font-family="'JetBrains Mono',Consolas,'Courier New',monospace" font-size="18" font-weight="700" fill="#ECFDF5" opacity="0">~30%<animate attributeName="opacity" from="0" to="1" dur=".6s" begin="1.50s" fill="freeze"/></text><text x="24" y="126" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#A7F3C7">Spring Boot CLI · developers who installed it</text>
+<rect x="24" y="134" width="560" height="8" rx="4" fill="#0B1410" stroke="#123322"/>
+<rect x="24" y="134" width="347" height="8" rx="4" fill="url(#im-g)"><animate attributeName="width" from="0" to="347" dur="1.4s" begin="0.95s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect>
+<rect x="24" y="134" width="120" height="8" rx="4" fill="url(#im-shine)"><animate attributeName="x" values="-120;700" dur="3s" begin="2.35s" repeatCount="indefinite"/></rect>
+<text x="606" y="142" font-family="'JetBrains Mono',Consolas,'Courier New',monospace" font-size="18" font-weight="700" fill="#ECFDF5" opacity="0">150+<animate attributeName="opacity" from="0" to="1" dur=".6s" begin="1.85s" fill="freeze"/></text><text x="24" y="172" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#A7F3C7">Corona Tracker · countries with live stats</text>
+<rect x="24" y="180" width="560" height="8" rx="4" fill="#0B1410" stroke="#123322"/>
+<rect x="24" y="180" width="436" height="8" rx="4" fill="url(#im-g)"><animate attributeName="width" from="0" to="436" dur="1.4s" begin="1.30s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect>
+<rect x="24" y="180" width="120" height="8" rx="4" fill="url(#im-shine)"><animate attributeName="x" values="-120;700" dur="3s" begin="2.70s" repeatCount="indefinite"/></rect>
+<text x="606" y="188" font-family="'JetBrains Mono',Consolas,'Courier New',monospace" font-size="18" font-weight="700" fill="#ECFDF5" opacity="0">195+<animate attributeName="opacity" from="0" to="1" dur=".6s" begin="2.20s" fill="freeze"/></text><text x="24" y="218" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#A7F3C7">Blog API · secure REST endpoints shipped</text>
+<rect x="24" y="226" width="560" height="8" rx="4" fill="#0B1410" stroke="#123322"/>
+<rect x="24" y="226" width="268" height="8" rx="4" fill="url(#im-g)"><animate attributeName="width" from="0" to="268" dur="1.4s" begin="1.65s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect>
+<rect x="24" y="226" width="120" height="8" rx="4" fill="url(#im-shine)"><animate attributeName="x" values="-120;700" dur="3s" begin="3.05s" repeatCount="indefinite"/></rect>
+<text x="606" y="234" font-family="'JetBrains Mono',Consolas,'Courier New',monospace" font-size="18" font-weight="700" fill="#ECFDF5" opacity="0">12+<animate attributeName="opacity" from="0" to="1" dur=".6s" begin="2.55s" fill="freeze"/></text></g>
+<text x="976" y="256" text-anchor="end" font-family="'JetBrains Mono',Consolas,'Courier New',monospace" font-size="10" fill="#3DDC84" fill-opacity=".7">bars are illustrative · numbers as stated on my resume</text>
+</svg>
