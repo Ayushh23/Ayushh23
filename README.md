@@ -7,12 +7,12 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayushraj2313-451126?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushraj2313)
-[![Email](https://img.shields.io/badge/Email-ayushrajj.231@gmail.com-701A3D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushrajj.231@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-C77B9B?style=for-the-badge&logo=vercel&logoColor=10070C)](https://mine-portfolio-six-bay.vercel.app/)
-![Views](https://komarev.com/ghpvc/?username=Ayushh23&label=Profile%20views&color=701A3D&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayushraj2313-123322?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushraj2313)
+[![Email](https://img.shields.io/badge/Email-ayushrajj.231@gmail.com-1F7A4D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushrajj.231@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-3DDC84?style=for-the-badge&logo=vercel&logoColor=050A07)](https://mine-portfolio-six-bay.vercel.app/)
+![Views](https://komarev.com/ghpvc/?username=Ayushh23&label=Profile%20views&color=1F7A4D&style=for-the-badge)
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/ticker.svg" width="100%" alt="Tech stack ticker"/>
 
 </div>
 
@@ -22,7 +22,7 @@ I build backends that don't fall over and AI features that do real work. Java + 
 
 - 🎓 **B.Tech CSE '26**, Gandhi Engineering College, Bhubaneswar (CGPA 8.2)
 - 🏗️ Two internships, two production-style full-stack apps shipped, one npm package in the wild
-- 🏆 **3rd place, BPUT Hackathon 2024** (AI job-matching platform, 47 teams)
+- 🏆 **BPUT Hackathon 2024 Finalist** (AI job-matching platform)
 - 🎤 **Toastmasters Speech Contest winner 2024**, and I can explain a JWT to your non-technical manager
 - 🔭 Now: backend engineering, system design, DSA grind, practical LLM products
 
@@ -31,7 +31,7 @@ I build backends that don't fall over and AI features that do real work. Java + 
 ## `$ git log --graph --oneline` &nbsp;·&nbsp; experience
 
 ```mermaid
-%%{init: {'theme':'dark','themeVariables':{'git0':'#E5B5C7','git1':'#C77B9B','git2':'#701A3D','gitBranchLabel0':'#10070C','gitBranchLabel1':'#10070C','gitBranchLabel2':'#F8F0F3','commitLabelColor':'#F8F0F3','commitLabelBackground':'#190B12','tagLabelColor':'#10070C','tagLabelBackground':'#E5B5C7','tagLabelBorder':'#C77B9B'}}}%%
+%%{init: {'theme':'dark','themeVariables':{'git0':'#A7F3C7','git1':'#3DDC84','git2':'#1F7A4D','gitBranchLabel0':'#050A07','gitBranchLabel1':'#050A07','gitBranchLabel2':'#ECFDF5','commitLabelColor':'#ECFDF5','commitLabelBackground':'#0B1410','tagLabelColor':'#050A07','tagLabelBackground':'#A7F3C7','tagLabelBorder':'#3DDC84'}}}%%
 gitGraph
    commit id: "2022 B.Tech"
    branch android
@@ -39,7 +39,7 @@ gitGraph
    commit id: "ML Kit"
    checkout main
    merge android id: "LetsGrowMore"
-   commit id: "BPUT 3rd" type: HIGHLIGHT
+   commit id: "BPUT Finalist" type: HIGHLIGHT
    branch fullstack
    commit id: "Resume AI"
    commit id: "E-learning"
@@ -162,6 +162,18 @@ flowchart LR
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
+## `$ ./impact --from resume`
+
+<img src="assets/impact.svg" width="100%" alt="Impact numbers: 85% of student queries automated, 30% less manual screening, 150+ CLI installs, 195+ countries tracked, BPUT Hackathon finalist"/>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## `$ leetcode --trophies`
+
+<a href="https://leetcode.com/u/Ayushh2312/"><img src="assets/leetcode-trophies.svg" width="100%" alt="LeetCode badges: 50 Days 2025, 100 Days 2025, 50 Days 2026"/></a>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
 ## `$ stack --list`
 
 <p align="center">
@@ -179,7 +191,9 @@ flowchart LR
 
 ## `$ git contributions`
 
-<sub>Generated from my real GitHub contribution graph by a scheduled GitHub Action, so nothing here is hand-made.</sub>
+<sub>Live data, nothing hand-made: the calendar is my real contribution graph, the snake is generated from it by a scheduled GitHub Action.</sub>
+
+<p align="center"><img src="https://ghchart.rshah.org/3DDC84/Ayushh23" alt="GitHub contribution calendar" width="100%"/></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayushh23/Ayushh23/output/github-snake-dark.svg"/>
@@ -193,6 +207,24 @@ while (alive) { learn(); build(); ship(); }
 ```
 
 <sub>Open to SDE / backend / full-stack roles — say hi 👋</sub>
+
+<details>
+<summary><code>$ sudo cat /root/.secrets</code></summary>
+<br/>
+
+```
+[sudo] password for visitor: ********
+Permission denied.
+
+...just kidding. There are no secrets, only commits.
+
+   ┌─────────────────────────────────────────┐
+   │  while (!hired) { grind(); build(); }   │
+   │  // compiles. ships. no warnings.       │
+   └─────────────────────────────────────────┘
+```
+
+</details>
 
 <img src="assets/footer.svg" width="100%" alt=""/>
 
